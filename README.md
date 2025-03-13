@@ -1,2 +1,2 @@
 # QtSeamCarving
-implement seam carving algorithm using Qt5.
+Implement seam carving algorithm using Qt5.
